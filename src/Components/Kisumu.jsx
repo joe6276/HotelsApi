@@ -25,7 +25,7 @@ longitude: '34.76171',
 },
 headers: {
   'x-rapidapi-host': 'travel-advisor.p.rapidapi.com',
-  'x-rapidapi-key': '06baed478fmsh8c89a97e89f2d37p18116cjsn0eb792fa7af8'
+  'x-rapidapi-key': process.env.KEY
 }
 };
 
